@@ -24,7 +24,7 @@ public class FXMLController {
 	private Model model;
 
     @FXML // ResourceBundle that was given to the FXMLLoader
-    private ResourceBundle resources;
+    private ResourceBundle resources;;
 
     @FXML // URL location of the FXML file that was given to the FXMLLoader
     private URL location;
